@@ -1,2 +1,2 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+last second project for this game
+(press space to reset the ball)
